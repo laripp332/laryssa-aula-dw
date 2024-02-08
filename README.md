@@ -29,22 +29,22 @@
 
 ## Passo 11: Com o auto save ativado as alterações deve aparecer no aplicativo github desktop , no quanto inferior esquerdo você irá colocar a descrição do seu projeto e as alterações
 
-## passo 12: Selecione a opção "comint to main"
+## Passo 12: Selecione a opção "comint to main"
 
 ## Passo 13: Após efetuar o "comint" selecione a opção "push origin"
 
 ## Passo 14:  O comando git pull é usado para buscar e baixar os conteudos dos repositorios 
 
 
-## passo 15: Abrir o github desktop, clicar em ""branch"" e nomear com qualquer nome.
+## Passo 15: Abrir o github desktop, clicar em ""branch"" e nomear com qualquer nome.
 
-## passo 16: Acesse o visual studio code, criar um "new file" para testar o branch
+## Passo 16: Acesse o visual studio code, criar um "new file" para testar o branch
 
-## passo 17: Colocar o branch em main novamente podemos criar um "new file" para testar. Podemos ter ter "test.txt" e "test2.txt" os dois são diferentes e não podem ser acessados quando trocado de branch.
+## Passo 17: Colocar o branch em main novamente podemos criar um "new file" para testar. Podemos ter ter "test.txt" e "test2.txt" os dois são diferentes e não podem ser acessados quando trocado de branch.
 
-## passo 18: voltar no github desktop, clicar em branch e ir na opção merge e selecionamos o branch que foi criado, depois disso podemos clicar no botão "create a merge commit"
+## Passo 18: voltar no github desktop, clicar em branch e ir na opção merge e selecionamos o branch que foi criado, depois disso podemos clicar no botão "create a merge commit"
 
-## passo 19: Podemos dar push para já estar dentro do github
+## Passo 19: Podemos dar push para já estar dentro do github
 
-## passo 20: Para excluir o branch podemos ir em branch e logo após ir em delete e configurar para ser deletado.
+## Passo 20: Para excluir o branch podemos ir em branch e logo após ir em delete e configurar para ser deletado.
 
