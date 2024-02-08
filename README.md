@@ -1,6 +1,6 @@
-# Aula 04 -  github- criação
+# Aula 04 -  Github- criação
 
-## 1 Passo: Entrar no site do github https://github.com/e criar uma conta ou colocar sua senha
+## 1 Passo: Entrar no site do github https://github.com/ criar uma conta ou colocar sua senha
 
 ## 2 Passo: Criar um repositorio, clicando em "new"
 
@@ -27,9 +27,9 @@
 ## Nome do projeto
 ## "Descrição do projeto"
 
-## Passo 11: com o auto save ativado as alterações deve aparecer no aplicativo github desktop , no quanto inferior esquerdo você irá colocar a descrição do seu projeto e as alterações
+## Passo 11: Com o auto save ativado as alterações deve aparecer no aplicativo github desktop , no quanto inferior esquerdo você irá colocar a descrição do seu projeto e as alterações
 
-## passo 12: selecione a opção "comint to main"
+## passo 12: Selecione a opção "comint to main"
 
 ## Passo 13: Após efetuar o "comint" selecione a opção "push origin"
 
@@ -44,7 +44,7 @@
 
 ## passo 18: voltar no github desktop, clicar em branch e ir na opção merge e selecionamos o branch que foi criado, depois disso podemos clicar no botão "create a merge commit"
 
-## passo 19: podemos dar push para já estar dentro do github
+## passo 19: Podemos dar push para já estar dentro do github
 
-## passo 20: para excluir o branch podemos ir em branch e logo após ir em delete e configurar para ser deletado.
+## passo 20: Para excluir o branch podemos ir em branch e logo após ir em delete e configurar para ser deletado.
 
