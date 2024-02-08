@@ -35,3 +35,16 @@
 
 ## Passo 14:  O comando git pull é usado para buscar e baixar os conteudos dos repositorios 
 
+
+## passo 15: Abrir o github desktop, clicar em ""branch"" e nomear com qualquer nome.
+
+## passo 16: Acesse o visual studio code, criar um "new file" para testar o branch
+
+## passo 17: Colocar o branch em main novamente podemos criar um "new file" para testar. Podemos ter ter "test.txt" e "test2.txt" os dois são diferentes e não podem ser acessados quando trocado de branch.
+
+## passo 18: voltar no github desktop, clicar em branch e ir na opção merge e selecionamos o branch que foi criado, depois disso podemos clicar no botão "create a merge commit"
+
+## passo 19: podemos dar push para já estar dentro do github
+
+## passo 20: para excluir o branch podemos ir em branch e logo após ir em delete e configurar para ser deletado.
+
